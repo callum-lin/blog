@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+pre {
+  margin-left: 5%;
+}
+
+body {
+  padding: 15%;
+  font-size: 1.25em;
+  font-family: "Times New Roman", Times, serif;
+}
+
+image {
+  max-height: 100%;
+  max-width: 100%;
+}
